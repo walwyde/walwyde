@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @walwyde
-- 👀 I’m interested in learning the ways of the gits.
+- 👋 Hi, I’m @walwyde full name Yobe Auwal Mohammed.
+- 👀 looking for mentorship..............
 - 🌱 I’m currently learning java script, node js.
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 Reach me @walwyde on all social media platforms
