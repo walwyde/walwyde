@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @walwyde full name Yobe Auwal Mohammed.
 - 👀 looking for mentorship..............
-- 🌱 I’m currently learning java script, node js.
+- 🌱 I’m currently learning java script, node js, mySql, mongodb.
 - 💞️ I’m looking to collaborate on any cool project
 - 📫 Reach me @walwyde on all social media platforms
